@@ -1,0 +1,17 @@
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.Form1.resources
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.Program.resources
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.csproj.GenerateResource.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.AssemblyInfoInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.AssemblyInfo.cs
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\bin\Debug\net8.0-windows\Xadrez.exe
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\bin\Debug\net8.0-windows\Xadrez.deps.json
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\bin\Debug\net8.0-windows\Xadrez.runtimeconfig.json
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\bin\Debug\net8.0-windows\Xadrez.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\bin\Debug\net8.0-windows\Xadrez.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\refint\Xadrez.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\Xadrez.genruntimeconfig.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\c\Xadrez\obj\Debug\net8.0-windows\ref\Xadrez.dll
